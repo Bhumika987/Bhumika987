@@ -36,12 +36,8 @@ Real-time sign language translator (92% accuracy) using hand landmarks.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhumika987&color=blueviolet&style=flat-square)  
-
----
-
 ## 📄 **Resume**  
-[![Resume PDF](https://img.shields.io/badge/Download_Resume-%23FF0000?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/raw/main/resume.pdf)  
+[![Resume PDF](https://img.shields.io/badge/Download_Resume-%23FF0000?style=for-the-badge&logo=adobeacrobatreader)]((https://github.com/Bhumika987/Bhumika987/raw/main/My_resume.Bhumika.pdf))  
 
 
 ---
