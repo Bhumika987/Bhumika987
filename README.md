@@ -34,7 +34,7 @@ Real-time sign language translator (92% accuracy) using hand landmarks.
 ---
 
 ## 📄 **Resume**  
-[![Resume PDF](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/raw/main/My_resume.Bhumika.pdf) 
+[![Resume PDF](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/blob/main/My%20resume.Bhumika.pdf) 
 
 
 ---
