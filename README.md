@@ -23,7 +23,7 @@ A Web3 platform for trustless campaigns with automated smart contracts.
 - Role: Designed gas-efficient factory pattern (`Crowdfactory.sol`).  
 - Stack: `Solidity` `Hardhat` `Ether.js` `MetaMask`  
 
-### [✋ ASL Recognition System](https://github.com/Bhumika987/ASL-Translator)  
+### [✋ ASL Recognition System](https://github.com/Bhumika987/ASL-Hand-Translation)  
 Real-time sign language translator (92% accuracy) using hand landmarks.  
 - Stack: `Python` `OpenCV` `MediaPipe` `Keras`
   
