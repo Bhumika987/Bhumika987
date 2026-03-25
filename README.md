@@ -5,9 +5,9 @@ Building decentralized solutions with a passion for blockchain, smart contracts,
 
 ## 🔧 **Technical Toolkit**  
 **Blockchain**: `Solidity` `Hardhat` `Ethers.js` `Web3.py` `EVM`  
-**Backend**: `Python` `FastAPI` `SQLite` 
-**ML/CV**: `OpenCV` `Keras` `MediaPipe`  
+**Backend**: `Python` `FastAPI` `SQLite`   
 **WebScraping**: `Puppeteer` `Selenium` `Scrapy`  
+**ML/CV**: `OpenCV` `Keras` `Mediapipe`  
 
 ---
 
