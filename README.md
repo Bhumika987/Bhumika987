@@ -30,7 +30,7 @@ AI system that ranks the top 100 candidates from a 100,000-profile pool against 
 A production API monitoring gas fees across **7 EVM chains** (Ethereum, Base, zkSync, Avalanche, Fantom, Polygon zkEVM, Moonbeam). **Deployed live.**
 - EIP-1559 fee estimation, L2 fee breakdown, historical analytics, transaction simulation
 - <50ms response times, TTL caching, tiered rate-limiting
-- **Stack**: `Python` · `FastAPI` · `Web3.py` · `SQLite` — [Live demo →](https://multi-chain-gas-service.onrender.com/ui)
+- **Stack**: `Python` · `FastAPI` · `Web3.py` · `SQLite` — [Live demo →](https://multi-chain-gas-tracker-api.onrender.com/)
 
 ### [✅ Task Management API](https://github.com/Bhumika987/task-management-api)
 A secure, production-style REST API for task management with full auth and migrations.
