@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhumika Sahu
 
-**Backend & Applied-AI developer.** I build things that actually run in production — APIs, ranking systems, and on-chain tooling — not just demos.
+**Backend & Applied-AI developer.** I build things that actually run in production — APIs, ranking systems, and on-chain tooling.
 
 Most recently: built an AI candidate-ranking engine that scored **100,000 profiles in 67 seconds** on CPU, as a solo entry in the **India Runs Hackathon (Redrob AI × Hack2skill)**.
 
