@@ -9,8 +9,11 @@ Most recently: built an AI candidate-ranking engine that scored **100,000 profil
 ## 🔧 Technical Toolkit
 
 **Backend & AI**: `Python` · `FastAPI` · `sentence-transformers` · `SQLAlchemy` · `PostgreSQL` · `NumPy` · `pandas`
+
 **Blockchain**: `Solidity` · `Hardhat` · `Ethers.js` · `Web3.py` · `EVM`
+
 **ML / CV**: `OpenCV` · `MediaPipe` · `Keras`
+
 **Web Scraping**: `Puppeteer` · `Selenium` · `Scrapy`
 
 ---
