@@ -1,41 +1,46 @@
-# 👋 Hi, I'm Bhumika Sahu  
-Building decentralized solutions with a passion for blockchain, smart contracts, and automating real-world problems.  
+# 👋 Hi, I'm Bhumika Sahu
+
+**Backend & Applied-AI developer.** I build things that actually run in production — APIs, ranking systems, and on-chain tooling — not just demos.
+
+Most recently: built an AI candidate-ranking engine that scored **100,000 profiles in 67 seconds** on CPU, as a solo entry in the **India Runs Hackathon (Redrob AI × Hack2skill)**.
 
 ---
 
-## 🔧 **Technical Toolkit**  
-**Blockchain**: `Solidity` `Hardhat` `Ethers.js` `Web3.py` `EVM`  
-**Backend**: `Python` `FastAPI` `SQLite`   
-**WebScraping**: `Puppeteer` `Selenium` `Scrapy`  
-**ML/CV**: `OpenCV` `Keras` `Mediapipe`  
+## 🔧 Technical Toolkit
+
+**Backend & AI**: `Python` · `FastAPI` · `sentence-transformers` · `SQLAlchemy` · `PostgreSQL` · `NumPy` · `pandas`
+**Blockchain**: `Solidity` · `Hardhat` · `Ethers.js` · `Web3.py` · `EVM`
+**ML / CV**: `OpenCV` · `MediaPipe` · `Keras`
+**Web Scraping**: `Puppeteer` · `Selenium` · `Scrapy`
 
 ---
 
-## 🚀 **Featured Projects**  
+## 🚀 Featured Projects
 
-### [🔥 Multi-Chain Gas Tracker API](https://github.com/Bhumika987/Multi-Chain-Gas-Tracker-API)  
-A production-ready API monitoring gas fees across 7+ EVM chains (Ethereum, Base, zkSync).  
-- Features: EIP-1559 fee estimation, historical analytics, rate-limiting (60 RPM).  
-- Stack: `Python` `FastAPI` `Web3.py` `TTLCache`  
+### [🤖 Redrob Candidate Ranker](https://github.com/Bhumika987/redrob-candidate-ranker-Hackathon-)
+AI system that ranks the top 100 candidates from a 100,000-profile pool against a job description — understanding career fit, not just keywords.
+- Ranks **100K candidates in ~67s** on CPU, no LLM calls at runtime (precomputed embeddings)
+- Detects fabricated/inconsistent profiles and penalizes keyword-stuffing
+- **Stack**: `Python` · `sentence-transformers` · `NumPy` · `pandas`
 
-### [💡 FundFlow: Decentralized Crowdfunding](https://github.com/Bhumika987/FundFlow)  
-A Web3 platform for trustless campaigns with automated smart contracts.  
-- Role: Designed gas-efficient factory pattern (`Crowdfactory.sol`).  
-- Stack: `Solidity` `Hardhat` `Ether.js` `MetaMask`  
+### [⛽ Multi-Chain Gas Tracker API](https://github.com/Bhumika987/Multi-Chain-Gas-Tracker-API)
+A production API monitoring gas fees across **7 EVM chains** (Ethereum, Base, zkSync, Avalanche, Fantom, Polygon zkEVM, Moonbeam). **Deployed live.**
+- EIP-1559 fee estimation, L2 fee breakdown, historical analytics, transaction simulation
+- <50ms response times, TTL caching, tiered rate-limiting
+- **Stack**: `Python` · `FastAPI` · `Web3.py` · `SQLite` — [Live demo →](https://multi-chain-gas-service.onrender.com/ui)
 
-### [✋ ASL Recognition System](https://github.com/Bhumika987/ASL-Hand-Translation)  
-Real-time sign language translator (92% accuracy) using hand landmarks.  
-- Stack: `Python` `OpenCV` `MediaPipe` `Keras`
-  
----
-
-⚡ **Fun Fact**: I’m currently learning about ZK-proofs and L2 scaling solutions! 
-
----
-
-## 📄 **Resume**  
-[![Resume PDF](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/blob/main/My%20resume.Bhumika.pdf) 
-
+### [✅ Task Management API](https://github.com/Bhumika987/task-management-api)
+A secure, production-style REST API for task management with full auth and migrations.
+- JWT authentication, SQLAlchemy models, Alembic migrations, PostgreSQL
+- Clean REST design — the backend foundation real apps are built on
+- **Stack**: `Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy`
 
 ---
- 
+
+⚡ **Currently exploring**: applied AI / ranking systems, ZK-proofs, and L2 scaling.
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-sahu-14092b25b/)
+[![Resume](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/blob/main/My%20resume.Bhumika.pdf)
