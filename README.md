@@ -46,4 +46,4 @@ A secure, production-style REST API for task management with full auth and migra
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-sahu-14092b25b/)
-[![Resume](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/blob/main/My%20resume.Bhumika.pdf)
+[![Resume](https://img.shields.io/badge/Download_Resume-%230A66C2?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Bhumika987/Bhumika987/blob/main/Bhumika_Sahu_Resume.pdf)
